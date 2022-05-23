@@ -6,4 +6,4 @@ metadata:
     gitOpsRepository.url: https://github.com/redhat-appstudio-appdata/control-plane-service-klape-insights-comply-earn
   description: Control Plane Service
   name: Control Plane Service
-schemaVersion: 2.1.0
+schemaVersion: 2.2.0
